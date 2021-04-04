@@ -1,21 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on PTJ BLOG</title>
-    <link>https://opjt.github.io/post/</link>
-    <description>Recent content in Posts on PTJ BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://opjt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>hugo blog !</title>
-      <link>https://opjt.github.io/post/hugo-blog/</link>
-      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://opjt.github.io/post/hugo-blog/</guid>
-      <description>Hello hugo!  원래는 동적블로그를 만들고있었지만 github.io 도메인에 대해서 검색하다가 github-page를 알게되어서 정적사이트생성기에 대해 알게됨 그래서 hugo를 이용하여 블로그를 만들기로함
- hugo 설치 MAC$ brew install hugo hugo 공식 깃헙 에서 운영체제에 맞는 최신버전 다운로드 C:\Hugo\bin 디렉토리 생성해서 다운받은 압축파일 해제 어느 위치에서나 Hugo가 실행될 수 있도록$ set PATH=%PATH%;C:\Hugo\bin 명령으로 환경변수에 C:\Hugo\bin추가 명령 프롬프트에 $ hugo version 혹은 $ hugo help로 동작 확인  hugo 실행  $ hugo new site [이름] 명령어로 저장소 생성 https://themes.</description>
-    </item>
-    
-  </channel>
-</rss>
